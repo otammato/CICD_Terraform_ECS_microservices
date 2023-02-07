@@ -20,7 +20,7 @@ To implement the complete solution:
 3. Customized the Terraform files (variables.tf and main.tf) with my CodeCommit repository names, ECS cluster name, S3 Bucket name, etc.
 <br>
 
-4. Went to the "terraform_infra_deployment" folder and ran the Terraform commands.
+4. From the "terraform_infra_deployment" folder ran the Terraform commands.
 <br>
 
 ```
