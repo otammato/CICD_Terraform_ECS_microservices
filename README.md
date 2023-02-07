@@ -1,13 +1,15 @@
-# CICD_Terraform_ECS_microservices
+# CICD_Terraform_ECS_microservices (demo)
 [ IaC CICD ECS Docker ]
 
-This Terraform template sets up a CI/CD pipeline using AWS CodePipeline. As the source, it utilizes CodeCommit, and builds are executed as Docker containers within an AWS ECS cluster.
+This Terraform template sets up a CI/CD pipeline using AWS CodePipeline. As the source, it utilizes AWS CodeCommit, and builds are executed as Docker containers within an AWS ECS cluster.
 
 The repository is cloned from this author: 
 https://github.com/sd031/microservice-cicd-project-with-terraform
 
 
 <br>
+
+To implement the complete solution:
 
 1. I followed the instructions outlined in https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-ide-c9.html to integrate Cloud9 with CodeCommit.
 <br>
