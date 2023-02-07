@@ -32,7 +32,7 @@ terraform apply
 ```
 <br><br>
 
-5. test the pipeline by modifying the source code to see the process and result:
+5. tested the pipeline by modifying the source code to see the process and result:
 
 <br><br>
 <p align="center" >
