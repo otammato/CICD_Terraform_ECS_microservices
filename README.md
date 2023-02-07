@@ -14,7 +14,7 @@ To implement the complete solution:
 1. I followed the instructions outlined in https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-ide-c9.html to integrate Cloud9 with CodeCommit.
 <br>
 
-2. Launched an ECS cluster with 3 microservices, written on Go, Python3 and JS and deployed as Docker containers, by following the video tutorial at https://www.youtube.com/watch?v=fPkO3644kDU
+2. Launched an ECS cluster with 3 microservices, written with Go, Python3 and JS and deployed as Docker containers, by following the video tutorial at https://www.youtube.com/watch?v=fPkO3644kDU
 <br>
 
 3. Customized the Terraform files (variables.tf and main.tf) with my CodeCommit repository names, ECS cluster name, S3 Bucket name, etc.
