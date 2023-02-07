@@ -34,6 +34,12 @@ terraform apply
 
 <br><br>
 <p align="center" >
+  <img width="960" alt="Screenshot 2023-02-07 at 20 43 11" src="https://user-images.githubusercontent.com/104728608/217361634-572a11dd-65df-4128-8b0d-5fbc838e2140.png">
+</p>
+<br><br>
+
+<br><br>
+<p align="center" >
   <img width="1070" alt="Screenshot 2023-02-07 at 19 59 13" src="https://user-images.githubusercontent.com/104728608/217353794-b219de0d-e1ee-4fad-8aa0-0a56ab0588ae.png">
 </p>
 <br><br>
@@ -44,8 +50,4 @@ terraform apply
 </p>
 <br><br>
 
-<br><br>
-<p align="center" >
-<img width="901" alt="Screenshot 2023-02-07 at 20 32 47" src="https://user-images.githubusercontent.com/104728608/217358709-cc615610-42a7-4a24-b8a2-89596a07522c.png">
-<br><br>
-<p align="center" >
+
