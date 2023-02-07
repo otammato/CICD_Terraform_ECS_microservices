@@ -25,7 +25,7 @@ terraform validate
 ```
 terraform apply
 ```
-
+<br><br>
 5. test your pipeline:
 <br><br>
 <p align="center" >
