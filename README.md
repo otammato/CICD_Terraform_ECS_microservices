@@ -34,7 +34,7 @@ terraform apply
 
 <br><br>
 <p align="center" >
-  <img width="700" alt="Screenshot 2023-02-07 at 20 43 11" src="https://user-images.githubusercontent.com/104728608/217361634-572a11dd-65df-4128-8b0d-5fbc838e2140.png">
+  <img width="700" alt="Screenshot 2023-02-07 at 20 54 12" src="https://user-images.githubusercontent.com/104728608/217363768-40a9c2e2-e097-47fa-b216-e5f8089f824d.png">
 </p>
 <br><br>
 
