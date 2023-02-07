@@ -1,6 +1,8 @@
 # CICD_Terraform_ECS_microservices
 [ IaC CICD ECS Docker ]
 
+This terraform template creates CI/CD Pipeline for AWS CodePipeline. Then as a sourse the CodeCommit is used and Bulds run as Docker containers in AWS ECS Cluster
+
 The repository is cloned from this author: 
 https://github.com/sd031/microservice-cicd-project-with-terraform
 
