@@ -50,4 +50,4 @@ terraform apply
 </p>
 <br><br>
 
-
+6. To see the changes, paste the dns endpoint of ELB (Elastic load balancer), launched at step 2 to your browser
