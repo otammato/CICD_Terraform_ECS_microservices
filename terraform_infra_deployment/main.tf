@@ -2,7 +2,7 @@ terraform {
   required_version = ">= 0.12"
   # Uncomment only if you would like to use s3 as backend
   backend "s3" {
-    bucket = "terraform-demo-sandip"
+    bucket = "cicd-deploy-test2"
     key = "terraform.tfstate"
     region = "us-west-2"
   }

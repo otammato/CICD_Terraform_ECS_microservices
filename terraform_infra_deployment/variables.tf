@@ -37,7 +37,7 @@ variable "golang_project_repository_branch" {
 
 variable "artifacts_bucket_name" {
   description = "S3 Bucket for storing artifacts"
-  default     = "your-project-name-cicd-artifacts-bucket"
+  default     = "cicd-deploy-test3"
 }
 
 variable "aws_ecs_cluster_name" {
