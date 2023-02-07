@@ -9,16 +9,16 @@ https://github.com/sd031/microservice-cicd-project-with-terraform
 
 <br>
 
-1. Follow the instructions outlined in https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-ide-c9.html to integrate Cloud9 with CodeCommit.
+1. I followed the instructions outlined in https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-ide-c9.html to integrate Cloud9 with CodeCommit.
 <br>
 
-2. Launch an ECS cluster by following the video tutorial at https://www.youtube.com/watch?v=fPkO3644kDU
+2. Launched an ECS cluster by following the video tutorial at https://www.youtube.com/watch?v=fPkO3644kDU
 <br>
 
-3. Customize the Terraform files (variables.tf and main.tf) with your CodeCommit repository names, ECS cluster name, S3 Bucket name, etc.
+3. Customized the Terraform files (variables.tf and main.tf) with your CodeCommit repository names, ECS cluster name, S3 Bucket name, etc.
 <br>
 
-4. Go to the "terraform_infra_deployment" folder and run the Terraform commands.
+4. Went to the "terraform_infra_deployment" folder and ran the Terraform commands.
 <br>
 
 ```
