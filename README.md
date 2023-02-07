@@ -6,6 +6,7 @@ https://github.com/sd031/microservice-cicd-project-with-terraform
 
 
 <br>
+
 1. Follow the instructions outlined in https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-ide-c9.html to integrate Cloud9 with CodeCommit.
 <br>
 
