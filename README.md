@@ -25,6 +25,8 @@ terraform validate
 ```
 terraform apply
 ```
+
+5. test your pipeline:
 <br><br>
 <p align="center" >
   <img width="1070" alt="Screenshot 2023-02-07 at 19 59 13" src="https://user-images.githubusercontent.com/104728608/217353794-b219de0d-e1ee-4fad-8aa0-0a56ab0588ae.png">
