@@ -25,13 +25,16 @@ terraform validate
 ```
 terraform apply
 ```
-<p align="center" >
-  <img width="1031" alt="Screenshot 2023-02-07 at 19 57 47" src="https://user-images.githubusercontent.com/104728608/217353712-f8c9a489-5ae0-4718-9b57-cf5f09b20bd0.png">
-</p>
-
+<br><br>
 <p align="center" >
   <img width="1070" alt="Screenshot 2023-02-07 at 19 59 13" src="https://user-images.githubusercontent.com/104728608/217353794-b219de0d-e1ee-4fad-8aa0-0a56ab0588ae.png">
 </p>
+<br><br>
 
+<br><br>
+<p align="center" >
+  <img width="1031" alt="Screenshot 2023-02-07 at 19 57 47" src="https://user-images.githubusercontent.com/104728608/217353712-f8c9a489-5ae0-4718-9b57-cf5f09b20bd0.png">
+</p>
+<br><br>
 
 
