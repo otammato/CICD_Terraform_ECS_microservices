@@ -10,13 +10,16 @@ https://github.com/sd031/microservice-cicd-project-with-terraform
 https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-ide-c9.html
 
 <br>
+
 2. Launch an ECS cluster as described in this video:
 https://www.youtube.com/watch?v=fPkO3644kDU
 
 <br>
+
 3. Modify the Terraform variables.tf and main.tf files according to yours (CodeCommit Repo names, ECS cluster name, S3 Bucket name ..)
 
 <br>
+
 4. Navigate to "terraform_infra_deployment" folder and launch terraform commands:
 
 ```
