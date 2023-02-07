@@ -53,5 +53,7 @@ terraform apply
 6. To see the changes, paste the dns endpoint of ELB (Elastic load balancer), launched at step 2 to your browser
 
 <br><br>
-  <img width="766" alt="Screenshot 2023-02-07 at 21 11 42" src="https://user-images.githubusercontent.com/104728608/217366743-978a17cd-253b-4c9e-b5ad-cc27236b157f.png">
+<p align="center" >
+  <img width="700" alt="Screenshot 2023-02-07 at 21 11 42" src="https://user-images.githubusercontent.com/104728608/217366743-978a17cd-253b-4c9e-b5ad-cc27236b157f.png">
+</p>
 <br><br>
