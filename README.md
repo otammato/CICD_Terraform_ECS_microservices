@@ -17,7 +17,7 @@ To implement the complete solution:
 2. Launched an ECS cluster with 3 microservices, written with Go, Python3 and JS and deployed as Docker containers, by following the video tutorial at https://www.youtube.com/watch?v=fPkO3644kDU
 <br>
 
-3. Customized the Terraform files (variables.tf and main.tf) with my CodeCommit repository names, ECS cluster name, S3 Bucket name, etc.
+3. Customized the Terraform files (variables.tf and main.tf) with my CodeCommit repository names, ECS cluster name, S3 Bucket name, etc.<br>
 https://github.com/otammato/CICD_Terraform_ECS_microservices/tree/main/terraform_infra_deployment
 <br>
 
