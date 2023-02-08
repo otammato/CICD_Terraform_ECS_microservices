@@ -18,6 +18,7 @@ To implement the complete solution:
 <br>
 
 3. Customized the Terraform files (variables.tf and main.tf) with my CodeCommit repository names, ECS cluster name, S3 Bucket name, etc.
+https://github.com/otammato/CICD_Terraform_ECS_microservices/tree/main/terraform_infra_deployment
 <br>
 
 4. From the "terraform_infra_deployment" folder ran the Terraform commands.
